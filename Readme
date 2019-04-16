@@ -1,0 +1,6 @@
+- Open the ERP folder
+- Run ERP.exe
+- The terminal will prompt you for your credentials.
+- Let the program run as it automatically fills the feedback.
+- The program will also check if all the feedbacks are filled and close automatically.
+- If the program gets stuck, please run it once more.
