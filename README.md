@@ -21,7 +21,9 @@ https://github.com/AniruddhaChattopadhyay/Automatic-ERP-FeedBack-GUI/archive/mas
 **Incase of any error please rerun the .exe file. If the error persists please feel free to contact me or any of our contributors.
 
 # Contributors
-Aadi Swadipto Mondal and Kanishka Halder and Parth Sarthi Roy
+Aadi Swadipto Mondal https://github.com/AadiCool
+Kanishka Halder https://github.com/KanishkaHalder1771
+Parth Sarthi Roy 
 
 # For linux user
 Refer to : https://github.com/AniruddhaChattopadhyay/Auto_Feedback_Linux
